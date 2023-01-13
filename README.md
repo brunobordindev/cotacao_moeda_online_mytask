@@ -2,9 +2,7 @@
 
 faz a contacao da moeda online - cotacao real API por MyTask
 
-<img src="https://user-images.githubusercontent.com/72177982/212333574-96546b51-6599-4b00-930f-49a0994a177e.png" width="25%">
-<img src="https://user-images.githubusercontent.com/72177982/212333591-fd991c3d-f687-48a0-b99e-bdc83c208c2b.png" width="25%">
-<img src="https://user-images.githubusercontent.com/72177982/212333597-04721aaf-c529-476c-8db3-69671e2fd7f2.png" width="25%">
+<img src="https://user-images.githubusercontent.com/72177982/212333574-96546b51-6599-4b00-930f-49a0994a177e.png" width="25%"> <img src="https://user-images.githubusercontent.com/72177982/212333591-fd991c3d-f687-48a0-b99e-bdc83c208c2b.png" width="25%"> <img src="https://user-images.githubusercontent.com/72177982/212333597-04721aaf-c529-476c-8db3-69671e2fd7f2.png" width="25%">
 
 MainActivity
 
